@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NpTaskManager", "NpTaskManager\NpTaskManager.csproj", "{4FC97F83-3596-4E25-9A06-39901CB0193E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerListener", "TaskManagerListener\TaskManagerListener.csproj", "{95038152-8C38-4B41-A224-E8E5D448F458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC97F83-3596-4E25-9A06-39901CB0193E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC97F83-3596-4E25-9A06-39901CB0193E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC97F83-3596-4E25-9A06-39901CB0193E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC97F83-3596-4E25-9A06-39901CB0193E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95038152-8C38-4B41-A224-E8E5D448F458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95038152-8C38-4B41-A224-E8E5D448F458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95038152-8C38-4B41-A224-E8E5D448F458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95038152-8C38-4B41-A224-E8E5D448F458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51353938-E8E3-4F2F-AFBF-37EF44E91886}
+	EndGlobalSection
+EndGlobal
